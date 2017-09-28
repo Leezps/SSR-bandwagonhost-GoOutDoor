@@ -1,4 +1,4 @@
-<h1>ShadowsocksR+搬瓦工</h1>
+<h1>ShadowsocksR+搬瓦工=翻墙</h1>
 
 > 对于一名程序员来说，会写代码的是程序员，但是不会Go Out Door的一定不是一名合格的程序员，今天我们来讲讲Go Out Door的那些事
 
