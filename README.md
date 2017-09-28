@@ -14,23 +14,35 @@
 
 买了服务期之后，我们可以登录它的网站
 
-第一步：
-<img width="100px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/tree/master/banwagong/banwagon_img_1.png"/>
+第一步:
+
+<img width="1000px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_1.png"/>
 
 第二步：
+
+<img width="1000px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_2.png"/>
 
 
 第三步（你进入这样的一个界面）:
 
+<img width="1000px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_3.png"/>
+
 
 第四步（找到我们的服务器）:
+
+<img width="1000px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_4.png"/>
 
 
 第五步（进入服务器，并搭建好服务器端的SSR——ShadowsocksR）:
 
+<img width="1000px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_5.png"/>
+
+<img width="1000px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_6.png"/>
+
 
 官方有一个比较好功能，就是一键搭建SSR,不需要我们具体配置之类的，当然这样的翻墙速度也就慢一些，如果你想要最优的，别人也给了<a href="https://233abc.com/post/8/">配置大法</a>的搭建完SSR，我们会发现我们有这么一个界面
 
+<img width="1000px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_7.png"/>
 
 这里面是关于官网对你的客户端的一些配置的讲解，（这儿只讲解windows的安装）我们将windows客服端下载下来之后，解压，解完压先别安装，我们**先来段基础知识**：
 
@@ -46,16 +58,21 @@
 
 我们会发现电脑的右下角出现一个纸飞机的图标(估计你们的图标是白色，那是因为还没有配置SSR)：
 
+<img width="500px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_8.png"/>
 
 左击点开它
 
+<img width="500px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_9.png"/>
 
 在这里按照刚才服务器上提示的配置进行配置服务器的设置，然后就是就是修改如下几个地方：
 
 (1)
 
+<img width="500px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_10.png"/>
 
 (2)
+
+<img width="500px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/blob/master/banwagong/banwagon_img_11.png"/>
 
 
 (3)将服务器负载均衡取消掉
