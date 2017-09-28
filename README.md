@@ -1,4 +1,4 @@
-###ShadowsocksR+搬瓦工
+<h1>ShadowsocksR+搬瓦工</h1>
 
 > 对于一名程序员来说，会写代码的是程序员，但是不会Go Out Door的一定不是一名合格的程序员，今天我们来讲讲Go Out Door的那些事
 
@@ -15,7 +15,7 @@
 买了服务期之后，我们可以登录它的网站
 
 第一步：
-
+<img width="1000px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/tree/master/banwagong"/>
 
 第二步：
 
@@ -70,9 +70,12 @@
 
 好了，也没有什么讲的了，如果你SSR搭建的时候存在问题，可以通过<a href="https://doub.io/ss-jc39/">SSR基本问题</a>来解决，上面依旧没解决你搭建SSR的问题，欢迎留言
 
-####参考资料(有些资料需要翻墙才看得到，所以有可能你打不开)：
+<h3>参考资料(有些资料需要翻墙才看得到，所以有可能你打不开)：</h3>
 
 <a href="http://www.360doc.com/content/17/0523/18/33381298_656535600.shtml">SSR安卓端WIN电脑端使用教程及下载</a>
+
 <a href="https://doub.io/ss-jc10/">ShadowsocksR 客户端 小白使用教程</a>
+
 <a href="https://doub.io/ss-jc39/">Shadowsocks无法使用后的简单排除方法</a>
+
 <a href="https://233abc.com/post/8/">SSR（ShadowsocksR）搭建和优化图文教程</a>
