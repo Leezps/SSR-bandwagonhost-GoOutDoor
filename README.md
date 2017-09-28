@@ -15,7 +15,7 @@
 买了服务期之后，我们可以登录它的网站
 
 第一步：
-<img width="1000px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/tree/master/banwagong"/>
+<img width="100px" src="https://github.com/Leezps/SSR-bandwagonhost-GoOutDoor/tree/master/banwagong/banwagon_img_1.png"/>
 
 第二步：
 
