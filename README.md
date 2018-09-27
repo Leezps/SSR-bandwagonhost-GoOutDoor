@@ -10,7 +10,7 @@
 
 **(既然好处多，我们就开始了)其次**
 
-我们先安装一个<a href="https://github.com/getlantern/forum">蓝灯</a>，然后通过蓝灯访问guo外网，首先我们先去<a href="https://bandwagonhost.com/">搬瓦工</a>官网租一台服务器，你可以租一台便宜的，每个月只需10多块，我相信你这点钱扣一扣还是给得起的，具体的租服务器的流程我就不说了，因为可以<a href="https://www.baidu.com/">百度</a>或者<a href="https://www.google.com/">Google</a>，说多了又感觉像打广告的了，推荐搬瓦工，是因为它便宜而且好…………
+我们先安装一个<a href="https://github.com/getlantern/forum">蓝灯</a>，然后通过蓝灯访问guo外网，首先我们先去<a href="https://www.bwh1.net/">搬瓦工</a>官网租一台服务器，你可以租一台便宜的，每个月只需10多块，我相信你这点钱扣一扣还是给得起的，具体的租服务器的流程我就不说了，因为可以<a href="https://www.baidu.com/">百度</a>或者<a href="https://www.google.com/">Google</a>，说多了又感觉像打广告的了，推荐搬瓦工，是因为它便宜而且好…………
 
 买了服务期之后，我们可以登录它的网站
 
